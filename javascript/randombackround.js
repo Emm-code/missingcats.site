@@ -8,7 +8,6 @@ window.onload = function() {
       'tiles/background-cat5.png',
       'tiles/background-cat6.png',
       'tiles/background-cat7.png',
-      'tiles/background-cat8.png',
       'tiles/background-flower.png'
       
     ];
